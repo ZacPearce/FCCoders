@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: Kanit;
+    color:midnightblue
+}
+
+h1{
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 70px;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 18%;
+}
+
+div li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: list-item;
+    margin-top: 10%;
+}
+
+li {text-align: center;}
+
+figure img{
+    height: 600px;
+    max-width: 75%;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-radius: 50%;
+}
+
+img{
+    height: 600px;
+    max-width: 75%;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    text-transform:uppercase;
+    letter-spacing: 4px;
+}
+
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-size: 2em;
+}
+
+section h2{
+    text-align: left;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-size: 1.5em;
+}
+
+
+#toprow{
+    width: 23%;
+    border: 4px solid whitesmoke;
+    background-color: midnightblue;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    margin: 5px;
+}
+
+#bottomrow{
+    width: 23%;
+    border: 4px solid midnightblue
+    background-color: whitesmoke;
+    color: midnightblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    margin: 5px;
+}
+
+h3{
+    color: goldenrod;
+    text-align: center;
+    font-size: 30px;
+}
+
+footer{
+    height: 150px;
+    text-align: center;
+    
+}
+.socials li{
+    display: inline;
+}
+.socials i{
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: goldenrod;
+}
+
+article p{
+    margin:15px;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#caption {
+    text-align: center;
+    font-size: 150%;
+    background-color: midnightblue;
+    color: white;
+}
+
+ul p{
+    text-align: center;
+}
+
+
