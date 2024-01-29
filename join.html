@@ -27,8 +27,103 @@
     </header>
 
     <section>
-        <h3></h3>
+            <article id="story">
+                <strong>Are you our next club legend?</strong>
+                <br>
+                Come to our annual open trial and see if you're good enough to play for Coders FC!
+                Fill out our quick and easy form below and we will be in contact with you with all the information you need! 
+                At Coders FC, we believe in giving people chances and rewarding people for taking chances even if unsuccessful!
+                So with everybody that comes to our annual open trial will recieve a season ticket for free!
+            </article>
+        <div class="flex-container">
+            <div class="flex-item">
+                <form action="https://formdump.codeinstitute.net/" method="post">
+                    <table>
+                        <tr>
+                            <td>
+                                <label for="full_name">Full Name:</label>
+                                <input type="text" placeholder="Name" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="date_of_birth"> Date of Birth:</label>
+                                <input type="date" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="email">E-mail Address</label>
+                                <input type="text" placeholder="E-mail Address" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="team">Which team are you trying out for?</label>
+                                <select name="team" id="team" required>
+                                    <option value="" selected disabled>Please select team...</option>
+                                    <option value="mens_team">Men's Team</option>
+                                    <option value="womens_team">Women's Team</option>
+                                    <option value="u18_mens">Men's u18 Team</option>
+                                    <option value="u18_womens">Women's u18 Team</option>
+                                    <option value="academy">Youth Academy</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="position"> What position(s) you can play?</label>
+                                Goalkeeper <input type="checkbox" name="position" id="goalie">
+                                Defender <input type="checkbox" name="position" id="defender">
+                                Midfielder <input type="checkbox" name="position" id="midfielder">
+                                Attacker <input type="checkbox" name="position" id="attacker">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="why">Why would you like to play for us?</label>
+                                <hr>
+                                <textarea name="why" id="why" cols="30" rows="10" required></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="correct"></label>
+                                Please tick box if all information you've entered is correct?
+                                <input type="checkbox" name="correct" id="correct" required>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="submit" value="Submit">
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+            <div>
+                <img src="assets/images/prodigy.jpg" alt="young boy holding a football looking at a sunset">
+            </div>
+            <div class="flex-item" class="toprow">
+                <article id="schedule">
+                    <h3>Our Schedule</h3>
+                    <p>Monday 6.00pm Youth Academy Training</p>
+                    <p>Tuesday 7.00pm Men's Training Session</p>
+                    <p>Wednesday 6.00pm u18 Men's Training Session</p>
+                    <p>Thursday 7.00pm Women's Training Session</p>
+                    <p>Friday 6.00pm u18's Women Training Session</p>
+                    <p>Saturday 12pm Game Day</p>
+                    <p>Saturday 5pm Team Drinks (optional)</p>
+                    <p>Sunday 12pm Youth Academy Game Day</p>
+                    <p>ALL games and training will take place at our home venue (see map below)</p>
+                </article>
+            </div>
+        </div>
+    
     </section>
+    <div class="flex-container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1740.1958382855544!2d-1.9069641769637733!3d52.53112626503945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870a33eab178443%3A0x9b83c2bcf382951f!2sAlexander%20Stadium!5e0!3m2!1sen!2suk!4v1706527081997!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 
     <footer>
         <ul class="socials">
