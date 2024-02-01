@@ -111,21 +111,22 @@ I used  Arial, Helvetica, sans-serif for the articles as it is neutral and easy 
 - Balsamiq - Used for wireframes
 
 # Media
-fb1.jpg is by x from Pexels  
-fb2.jpg  is by x from Pexels  
-fb3.jpg  is by x from Pexels  
-fb4.jpg  is by x from Pexels  
-fb5.jpg  is by x from Pexels  
-founder.jpg  is by x from Pexels  
-game.jpg  is by x from Pexels  
-grassroots.jpg  is by x from Pexels  
-pablo.jpg  is by x from Pexels  
-pitch.jpg  is by x from Pexels  
-prodigy.jpg  is by x from Pexels  
-roofe.jpg  is by x from Pexels  
-teamhuddle.jpg  is by x from Pexels  
+fb1.jpg is by *Zac Frith* from Pexels  
+fb2.jpg  is by *Pixabay* from Pexels  
+fb3.jpg  is by *Alexander Nadrilyanski* from Pexels  
+fb4.jpg  is by *Pixabay* from Pexels  
+fb5.jpg  is by *Pixabay* from Pexels  
+founder.jpg  is by *Pixabay* from Pexels  
+game.jpg  is by *Dialo Photography* from Pexels  
+grassroots.jpg  is by *Markus Spiske* from Pexels  
+pablo.jpg  is by *Edward Eyer* from Pexels  
+pitch.jpg  is by *Tom Fisk* from Pexels  
+prodigy.jpg  is by *Amaan Mustafa* from Pexels  
+roofe.jpg  is by *Aidan Roof* from Pexels  
+teamhuddle.jpg  is by *Omar Ramadan* from Pexels  
 
 # Deployment
+
 # Credits
 
 I would like to give special thanks to my mentor *Ronan McClelland* and my tutor *Manu Perez* for their time, continued patience, incredible support and guidance throughout this project.
