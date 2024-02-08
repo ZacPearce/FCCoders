@@ -14,40 +14,39 @@ body{
 h1{
     text-align: center;
     letter-spacing: 4px;
-    font-size: 70px;
+    font-size: 4em;
 }
 
 nav li {
     font-size: 1.2em;
-    line-height: 40px;
-    height: 40px;
+    line-height: 2.5em;
+    height: 2.5em;
     display: inline-block;
     margin-left: 18%;
 }
 
 div li {
     font-size: 1.2em;
-    line-height: 40px;
-    height: 40px;
+    line-height: 2.5em;
+    height: 2.5em;
     display: list-item;
     margin-top: 10%;
 }
 
 li {text-align: center;}
 
-figure img{
-    height: 600px;
+figure img {
+    height: 37.5em;
     max-width: 75%;
     padding: 10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
     border-radius: 50%;
 }
 
 img{
-    height: 600px;
+    height: 37.5em;
     max-width: 75%;
     padding: 10px;
     display: block;
@@ -74,15 +73,14 @@ section h2{
     font-size: 1.5em;
 }
 
-
 .toprow{
-    width: 23%;
+    width: 20rem;
     border: 4px solid whitesmoke;
     background-color: midnightblue;
     color: whitesmoke;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    height: 300px;
+    height: 15em;
     float: left;
     padding: 30px 0 0 10px;
     margin: 5px;
@@ -90,23 +88,73 @@ section h2{
 }
 
 .bottomrow{
-    width: 23%;
+    width: 20rem;
     border: 4px solid midnightblue;
     background-color: whitesmoke;
     color: midnightblue;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    height: 300px;
+    height: 15em;
     float: left;
     padding: 30px 0 0 10px;
     margin: 5px;
     overflow: auto;
 }
 
+.schedule{
+    margin: 5px;
+    border: 0.5em solid midnightblue;
+    background-color: goldenrod;
+    font-size: 1.1em;
+    text-align: center;
+    max-width: 20em;
+    color: white;
+    padding: 10px;
+    float: left;
+}
+
+.schedule p{
+    color: midnightblue;
+}
+
+.signup{
+    margin: 5px;
+    border: 0.25em solid goldenrod;
+    background-color: midnightblue;
+    font-size: 1.2em;
+    max-width: 20em;
+    text-align: center;
+    color: goldenrod;
+    padding: 10px;
+    max-height: fit-content;
+}
+
+.story{
+    margin: 5px;
+    border: 0.25em solid goldenrod;
+    background-color: midnightblue;
+    font-size: 1.5em;
+    text-align: center;
+    max-width: 20em;
+    color: white;
+    padding: 10px;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
 h3{
     color: goldenrod;
     text-align: center;
     font-size: 30px;
+}
+
+.blue{
+    color: midnightblue;
+    font-size: 2em;
 }
 
 footer{
@@ -117,6 +165,7 @@ footer{
 .socials li{
     display: inline;
 }
+
 .socials i{
     font-size: 200%;
     margin: 1%;
@@ -124,24 +173,9 @@ footer{
     color: goldenrod;
 }
 
-article p{
-    margin:15px;
-    font-size: 200%;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#caption {
-    text-align: center;
-    font-size: 150%;
-    background-color: midnightblue;
-    color: white;
-}
-
 ul p{
     text-align: center;
 }
-
-
 
 .flex-container {
     display: flex;
@@ -155,8 +189,8 @@ ul p{
     flex: 1;
     margin: 10px;
     box-sizing: border-box; 
-    max-width: 300px;
-    min-width: 150px; 
+    max-width: 18.75em;
+    min-width: 9.375em; 
     text-align: center; 
 }
 
@@ -164,33 +198,12 @@ ul p{
     .flex-container {
         flex-direction: column; 
     }
-}
-
-form{
-    background-color: goldenrod;
-    color: midnightblue;
-    border: 4px solid midnightblue;
-    font-size:20px;
-}
 
 
-#story{
-    margin: 30px;
-    border: 4px solid goldenrod;
-    background-color: midnightblue;
-    font-size: 35px;
-    text-align: center;
-    max-width: 80%;
-    color: white;
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#schedule{
-    border: 4px solid midnightblue;
-    font-size: 10px;
-    background-color: goldenrod
+.legend-text{
+        margin: 5px;
+        font-size: 1.25em;
+    }
 }
 
 strong{
@@ -200,4 +213,111 @@ strong{
 
 article h3{
     color: midnightblue;
+}
+
+.btn{
+    font-size: 18px;
+    font-weight: bold;
+    background: goldenrod;
+    width: 160px;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover, .btn:focus, .btn:active{
+    box-shadow: 0 0 20px white;
+}
+
+#origin{
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+    
+}
+
+.h2tc{
+    font-size: 3.5em;
+    text-align: center;
+    color: goldenrod;
+}
+
+.tcoders{
+    max-width: 20em;
+    max-height: 30em;
+    float: left;
+    border-radius: 10px;
+    margin-right: 1em;
+}
+
+.text-box{
+    color: midnightblue;
+}
+
+.text-box h2{
+    font-size: 3.6em;
+}
+
+.text-box p {
+    font-size: 10em;
+}
+
+.cover{
+    display: flex;
+}
+
+.box{
+margin: 1em;
+height: 25em;
+box-shadow: -1px 0 10px midnightblue;
+align-items: center;
+justify-content: center;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+overflow: auto;
+padding: 30px 0 0 10px;
+float: left;
+}
+
+.box img{
+width: 20em;
+height: 20em;
+
+}
+
+h4{
+    text-align: center;
+}
+
+.caption{
+    text-align: center;
+    font-size: 2em;
+    background-color: midnightblue;
+    color: white;
+}
+
+#photo{
+    clear:both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0px;
+    margin-top: 0;
+  }
+
+#photo img{
+    width: 100%;
+    
+}
+
+@media screen and (max-width:934px) {
+    #photo {column-count: 2;}
+}
+
+@media screen and (max-width:800px){
+    #photo{
+        column-count: 1;
+    }
+    
 }
