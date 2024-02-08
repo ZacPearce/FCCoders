@@ -127,6 +127,15 @@ teamhuddle.jpg  is by *Omar Ramadan* from Pexels
 
 # Deployment
 
+1. Log into GitHub.  
+2. Select '**FCCoders**' from the repositories.  
+3. Select '**Settings**' on the sub-headings. 
+4. Select '**Pages**' on the left hand side under the '**Code and Automation**' section.  
+5. Under the '**Build and Deployment**' section, click on the dropdown menu and select '**Main**'.  
+6. Next to the '**/(root)**' button select '**save**'
+7. An automated message will appear saying that Deployment is ready.
+8. Click on the link to go to the live deployed page.
+
 # Credits
 
 I would like to give special thanks to my mentor *Ronan McClelland* and my tutor *Manu Perez* for their time, continued patience, incredible support and guidance throughout this project.
