@@ -2,7 +2,7 @@
 
 ## A responsive website for a local football team to show the user the history of the club, why it's important to the local community, to build a bigger fanbase and recruit new players for the team.
 
-*add link to site here**
+https://zacpearce.github.io/FCCoders/
 
 # Business Goal
 
@@ -133,8 +133,9 @@ teamhuddle.jpg  is by *Omar Ramadan* from Pexels
 4. Select '**Pages**' on the left hand side under the '**Code and Automation**' section.  
 5. Under the '**Build and Deployment**' section, click on the dropdown menu and select '**Main**'.  
 6. Next to the '**/(root)**' button select '**save**'
-7. An automated message will appear saying that Deployment is ready.
-8. Click on the link to go to the live deployed page.
+7. An automated message will appear saying that Deployment is ready.  
+8. Refresh the page and a link should appear at the top of the page.
+9. Click on the link to go to the live deployed page.
 
 # Credits
 
