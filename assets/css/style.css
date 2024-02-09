@@ -140,6 +140,15 @@ section h2{
     padding: 10px;
 }
 
+.strong{
+    color: goldenrod;
+    font-size: 2em;
+}
+
+article h3{
+    color: midnightblue;
+}
+
 #map {
     height: 100%;
     width: 100%;
@@ -192,27 +201,6 @@ ul p{
     max-width: 18.75em;
     min-width: 9.375em; 
     text-align: center; 
-}
-
-@media only screen and (max-width: 600px) {
-    .flex-container {
-        flex-direction: column; 
-    }
-
-
-.legend-text{
-        margin: 5px;
-        font-size: 1.25em;
-    }
-}
-
-strong{
-    color: goldenrod;
-    font-size: 40px;
-}
-
-article h3{
-    color: midnightblue;
 }
 
 .btn{
@@ -284,7 +272,6 @@ float: left;
 .box img{
 width: 20em;
 height: 20em;
-
 }
 
 h4{
@@ -311,6 +298,8 @@ h4{
     
 }
 
+/* media queries*/
+
 @media screen and (max-width:934px) {
     #photo {column-count: 2;}
 }
@@ -320,4 +309,10 @@ h4{
         column-count: 1;
     }
     
+}
+
+@media only screen and (max-width: 600px) {
+    .flex-container {
+        flex-direction: column; 
+    }
 }
