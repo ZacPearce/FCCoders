@@ -101,9 +101,31 @@ section h2{
     overflow: auto;
 }
 
+h3{
+    color: goldenrod;
+    text-align: center;
+    font-size: 30px;
+}
+
+.blue{
+    color: midnightblue;
+    font-size: 2em;
+}
+
+.story{
+    margin: 5px;
+    border: 0.25em solid goldenrod;
+    background-color: midnightblue;
+    font-size: 1.34em;
+    text-align: center;
+    max-width: 20em;
+    color: white;
+    padding: 10px;
+}
+
 .schedule{
     margin: 5px;
-    border: 0.5em solid midnightblue;
+    border: 0.35em solid midnightblue;
     background-color: goldenrod;
     font-size: 1.1em;
     text-align: center;
@@ -129,17 +151,6 @@ section h2{
     max-height: fit-content;
 }
 
-.story{
-    margin: 5px;
-    border: 0.25em solid goldenrod;
-    background-color: midnightblue;
-    font-size: 1.5em;
-    text-align: center;
-    max-width: 20em;
-    color: white;
-    padding: 10px;
-}
-
 .strong{
     color: goldenrod;
     font-size: 2em;
@@ -155,16 +166,7 @@ article h3{
     border: none;
 }
 
-h3{
-    color: goldenrod;
-    text-align: center;
-    font-size: 30px;
-}
 
-.blue{
-    color: midnightblue;
-    font-size: 2em;
-}
 
 footer{
     height: 150px;
@@ -283,19 +285,6 @@ h4{
     font-size: 2em;
     background-color: midnightblue;
     color: white;
-}
-
-#photo{
-    clear:both;
-    line-height: 0;
-    column-count: 2;
-    column-gap: 0px;
-    margin-top: 0;
-  }
-
-#photo img{
-    width: 100%;
-    
 }
 
 /* media queries*/
