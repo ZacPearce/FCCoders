@@ -111,19 +111,18 @@ I used  Arial, Helvetica, sans-serif for the articles as it is neutral and easy 
 - Balsamiq - Used for wireframes
 
 # Media
-fb1.jpg is by *Zac Frith* from Pexels  
-fb2.jpg  is by *Pixabay* from Pexels  
-fb3.jpg  is by *Alexander Nadrilyanski* from Pexels  
-fb4.jpg  is by *Pixabay* from Pexels  
-fb5.jpg  is by *Pixabay* from Pexels  
-founder.jpg  is by *Pixabay* from Pexels  
-game.jpg  is by *Dialo Photography* from Pexels  
-grassroots.jpg  is by *Markus Spiske* from Pexels  
-pablo.jpg  is by *Edward Eyer* from Pexels  
-pitch.jpg  is by *Tom Fisk* from Pexels  
-prodigy.jpg  is by *Amaan Mustafa* from Pexels  
-roofe.jpg  is by *Aidan Roof* from Pexels  
-teamhuddle.jpg  is by *Omar Ramadan* from Pexels  
+
+c3.webp is by **Pixabay** via *Pexels*  
+fb2.jpg  is by **Pixabay** from *Pexels*  
+founder.jpg  is by **Pixabay** from *Pexels*  
+pablo.jpg  is by **Edward Eyer** from *Pexels*  
+pitch.jpg  is by **Tom Fisk** from *Pexels*  
+roofe.jpg  is by **Aidan Roof** via *Pexels*  
+c1.jpg is by **Pixabay** via *Pexels*  
+c7.jpg is by **Mica Asato** via *Pexels*  
+C8.jpg is by **Pixabay** via *Pexels*  
+C9.jpg is by **Thirdman** via *Pexels*  
+C6.jpg is by **Anastasia Shuraeva** via *Pexels*
 
 # Deployment
 
