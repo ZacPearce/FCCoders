@@ -287,6 +287,13 @@ h4{
     color: white;
 }
 
+#photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
 /* media queries*/
 
 @media screen and (max-width:934px) {
