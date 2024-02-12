@@ -166,8 +166,6 @@ article h3{
     border: none;
 }
 
-
-
 footer{
     height: 150px;
     text-align: center;
@@ -229,7 +227,7 @@ ul p{
 
 .h2tc{
     font-size: 3.5em;
-    text-align: center;
+    text-align:center;
     color: goldenrod;
 }
 
