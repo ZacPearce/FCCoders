@@ -2,7 +2,7 @@
 
 ## A responsive website for a local football team to show the user the history of the club, why it's important to the local community, to build a bigger fanbase and recruit new players for the team.
 
-https://zacpearce.github.io/FCCoders/
+[View Website Link](https://zacpearce.github.io/FCCoders/)
 
 # Business Goal
 
@@ -94,11 +94,64 @@ I used  Arial, Helvetica, sans-serif for the articles as it is neutral and easy 
 
 # Wireframes
 
-*add wireframes**
+### Homepage  
+![Wireframe](<assets/images/readme-img/wireframe-desk-index.png>)
+![Wireframe](<assets/images/readme-img/wireframe-tablet-index.png>)
+
+### History  
+![Wireframe](<assets/images/readme-img/history-desktop-wireframe.png>)
+![Wireframe](<assets/images/readme-img/history-tablet-mobile-wireframe.png>)
+
+### Gallery  
+![Wireframe](<assets/images/readme-img/gallery-desktop-wireframe.png>)
+![Wireframe](<assets/images/readme-img/gallery-mobile-tablet-wireframe.png>)
+
+### Join
+![Wireframe](<assets/images/readme-img/join-desktop-wireframe.png>)
+![Wireframe](<assets/images/readme-img/join-tablet-mobile-wireframe.png>)
 
 # Testing
 
-*add screenshots**
+To validate my HTML and CSS code I tested it via [W3C Markup Validation Service](https://validator.w3.org/)  and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)  
+See my results below
+
+CSS Results
+![Validator](<assets/images/readme-img/CSS-validator.png>)
+
+index.html Results
+![Validator](<assets/images/readme-img/index-validator.png>)
+
+History.html Results
+![Validator](<assets/images/readme-img/history-validator.png>)
+
+Join.html Results
+![Validator](<assets/images/readme-img/join-validator.png>)
+
+Gallery.html Results
+![Validator](<assets/images/readme-img/galley-validator.png>)  
+
+I also used [Page Speed Insights](https://pagespeed.web.dev/)   
+
+See my results below  
+
+Index.html
+![Validator](<assets/images/readme-img/index-desktop.png>)
+![Validator](<assets/images/readme-img/index-mobile.png>)
+
+Gallery.html  
+
+![Validator](<assets/images/readme-img/gallery-desktop.png>)
+![Validator](<assets/images/readme-img/gallery-mobile.png>)
+
+History.html  
+
+![Validator](<assets/images/readme-img/history-desktop.png>)
+![Validator](<assets/images/readme-img/history-mobile.png>)
+
+Join.html  
+
+![Validator](<assets/images/readme-img/join-mobile.png>)
+![Validator](<assets/images/readme-img/join-desktop.png>) 
 
 # Technologies
 
@@ -122,7 +175,9 @@ c1.jpg is by **Pixabay** via *Pexels*
 c7.jpg is by **Mica Asato** via *Pexels*  
 C8.jpg is by **Pixabay** via *Pexels*  
 C9.jpg is by **Thirdman** via *Pexels*  
-C6.jpg is by **Anastasia Shuraeva** via *Pexels*
+C6.jpg is by **Anastasia Shuraeva** via *Pexels*  
+  
+  All images came from [Pexels](https://www.pexels.com/)
 
 # Deployment
 
