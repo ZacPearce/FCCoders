@@ -123,7 +123,7 @@ To validate my HTML and CSS code I tested it via [W3C Markup Validation Service]
 See my results below
 
 CSS Results
-![Validator](<assets/images/readme-img/CSS-validator.png>)
+![Validator](<assets/images/readme-img/css-validator.png>)
 
 index.html Results
 ![Validator](<assets/images/readme-img/index-validator.png>)
