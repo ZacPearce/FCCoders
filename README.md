@@ -33,12 +33,12 @@ They can find all relevant information needed to get in touch with us or allow t
 - Check updates on the schedule
 - Reminder of where we are located
 - find training and game times
-- check the regularly updated photo gallery
+- check the weekly updated photo gallery
 - Remember where everything is and easily navigate through the site
 
 # Design
 
-For the design I incorporated the club colours of midnight blue, gold and white into the site. I used the same colours throughout the site to keep in line with the theme of the colour without it being too overbearing.
+For the design I incorporated the club colours of midnight blue, gold and white into the site. I used the same colours throughout the site to keep in line with the theme of the colour scheme without it being too overbearing.
 
 # Typography
 
@@ -53,26 +53,31 @@ I used  Arial, Helvetica, sans-serif for the articles as it is neutral and easy 
 
 ## Header
 
-- In the header I've hyperlinked our club mascot 'the warthog', as a return to home button.
+- In the header of each page I have gave the page a unique title and I've hyperlinked our club mascot 'the warthog' next to the title as a return to home button.
 
 ## Home Page
 
 - You're welcomed to the page with a smile, the hero image is our home pitch but styled into a smiley face to make it more welcoming.
+
 - Above the hero image, there's a welcome sign with a navigation bar to all our pages.
+
 - Underneath the hero image, I've made a simple design that gives you all the information on our club ethos, what we believe to be important and staples of the club, without making the information too overwhelming off the jump.
+
 - After the club ethos I've put a link to the join us page to promote our open trial, the more people who sign up the better.
 
 ## Gallery
 
-- I've made a gallery page to give people an insight of what it looks like to play for us, the quality of the pitches we play on and a few pictures of the players so you can become more familiar with our players.
+- I've made a gallery page of our top pictures of the week, I plan on doing a weekly update to give users a reasons to return to the site regularly.  
+
+- The gallery also gives the user an insight of what it looks like to play for us, the quality of the pitches we play on and a few pictures of the players so they can become more familiar with our club as a whole.
 
 ## History
 
-- There's also a history page for the people who want to know more about the very rich and unique history of the club.
+- I have created a history page for the users who want to know more about the very rich and unique history of the club.
 
 - Photos of the club founder with his compelling story that will take you through an emotional rollercoaster and will hopefully have you wanting to be a part of our wonderful legacy.
 
-- I've also put some of the club legends who hold records for most goals and appearances in there with their pictures as we feel recogniction for achievements can inspire people to try and break the records.
+- I've also added some our club's records with the name, picture and achievement of the record holder in the section underneath. Currently we are showing the club legends who hold the records for most goals, assists and appearances, as I feel recogniction for achievements can inspire people to try and break the records.
 
 ## Join Us
 
@@ -91,6 +96,8 @@ I used  Arial, Helvetica, sans-serif for the articles as it is neutral and easy 
 ## Footer
 
 - I've linked our social media pages for 'Facebook', 'X' (formerly known as twitter), 'Instagram' and 'Youtube' all in the footer and made sure they remain at the bottom of the page regardless of which webpage you're on.
+
+- I feel like social media is a crucial part of the club's growth in this day and age, if we go viral it will really help the growth of the club via endorsement deals as well as new interest in the club.
 
 # Wireframes
 
